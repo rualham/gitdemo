@@ -1,1 +1,1 @@
-lvmama
+lvmama my_lvmama_test
